@@ -1,0 +1,16 @@
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\BlobCRUD.exe.config
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\BlobCRUD.exe
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\BlobCRUD.pdb
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\Microsoft.Azure.Storage.Blob.pdb
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\Microsoft.Azure.Storage.Blob.xml
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\Microsoft.Azure.Storage.Common.pdb
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\Microsoft.Azure.Storage.Common.xml
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\obj\Debug\BlobCRUD.csprojResolveAssemblyReference.cache
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\obj\Debug\BlobCRUD.exe
+C:\Users\M1049291\Documents\Visual Studio 2017\Projects\BlobCRUD\BlobCRUD\obj\Debug\BlobCRUD.pdb
